@@ -1,6 +1,6 @@
 # SQL-Customer-Product-Analytics
 
-Project Overview
+# Project Overview
 This project was created to see how raw retail data can be transformed into meaningful business insights. I built a reporting layer on top of a Star Schema database to help answer real-world questions like: "Who are our most loyal customers?" and "Which product categories are actually driving our revenue?"
 
 I focused on moving data from a "raw" state into a structured schema, where I used advanced SQL techniques to create a set of views that are ready for a BI tool like Power BI or Tableau.
